@@ -1,1 +1,1 @@
-# .github
+tydenet: type deposition network
